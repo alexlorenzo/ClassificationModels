@@ -1,7 +1,7 @@
 # ClassificationModels
 Implement multiple classification models (feature importances, ROC Curve, confusion matrix comparison)
 
-## Prerequesite:
+## Prerequesites:
 - pandas
 - plotly
 - numpy
